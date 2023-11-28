@@ -6,7 +6,7 @@ from PyPDF2 import PdfReader
 
 
 pinecone.init(
-    api_key="api-key",
+    api_key="api-key", #api key goes here 
     environment="env",
 )
 index = pinecone.Index('doc-convo-pod')
