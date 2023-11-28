@@ -1,6 +1,6 @@
 # Doc-Convo2
 ---
-DocConvo is a Streamlit-based application that facilitates conversations with PDF documents using Langchain and Pinecone as a vector database. Users can sign in or sign up to interact with the uploaded PDFs and perform text file to PDF file conversions.
+DocConvo is a Streamlit-based application that facilitates conversations with PDF documents using Langchain and Pinecone as a vector database. Users can sign in or sign up to interact with the uploaded PDFs and perform text file to PDF file , then process the pdfs and have conversions.
 ---
 ## Features
 ---
